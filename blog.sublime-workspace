@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"clearTimeout\tmethod"
+			],
+			[
+				"co",
+				"countdownTimerRef\tproperty"
+			],
+			[
+				"on",
+				"onDecrease\tproperty"
+			],
+			[
+				"Even",
+				"EventEmitter\talias"
+			],
+			[
+				"im",
+				"implements\tkeyword"
+			],
+			[
+				"ui",
+				"ui-g-12"
+			],
+			[
+				"Carou",
+				"CarouselModule\tclass"
+			],
+			[
+				"ite",
+				"itemService\tproperty"
+			],
+			[
+				"ui-",
+				"ui-g-12"
+			],
+			[
+				"Cale",
+				"CalendarModule\tclass"
+			],
+			[
+				"InputMas",
+				"InputMaskModule\tclass"
+			],
+			[
+				"Input",
+				"InputTextModule\tclass"
+			],
+			[
+				"Butt",
+				"ButtonModule\tclass"
+			],
+			[
+				"n",
+				"node_modules"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"navbar",
+				"navbar-header"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"page",
+				"page_obj"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"post",
+				"post-singolo"
+			],
+			[
+				"Post",
+				"PostAdmin"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"dialog",
+				"dialogos"
+			],
+			[
+				"a",
+				"apelido"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"ex",
+				"expressValidator"
+			],
+			[
+				"b",
+				"bodyParser"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"not",
+				"notícias"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"formulario_inclusao_noticias"
+			],
+			[
+				"da",
+				"data_noticia"
+			],
+			[
+				"va",
+				"validacao"
+			],
+			[
+				"form",
+				"form_add_noticia"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"get",
+				"getNoticias"
+			],
+			[
+				"no",
+				"noticias"
+			],
+			[
+				"noticias",
+				"noticiasModel"
+			],
+			[
+				"noticia",
+				"noticiaModel"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ro",
+				"rotaNoticias"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"netbe",
+				"netbeans_default_options"
+			],
+			[
+				"contat",
+				"contatoForm"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"opera",
+				"operadoras"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 16848,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Usuário/Desktop/Cursos UDEMY/CursoLaravel/timer/css/slider.css",
+			"settings":
+			{
+				"buffer_size": 3283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layout.blade.php",
+			"settings":
+			{
+				"buffer_size": 7196,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/about.blade.php",
+			"settings":
+			{
+				"buffer_size": 64,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/contact.blade.php",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/service.blade.php",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog.sublime-project",
+			"settings":
+			{
+				"buffer_size": 125,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "type",
+		"selected_items":
+		[
+			[
+				"type",
+				"TypeScript: Paste And Format"
+			],
+			[
+				"py",
+				"Build With: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/blog",
+		"/C/xampp/htdocs/blog/app/Http",
+		"/C/xampp/htdocs/blog/public",
+		"/C/Users/Usuário/Desktop/Cursos UDEMY/CursoLaravel/timer/css"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/blog/routes/web.php",
+		"/C/Users/Usuário/workspace/patrimonio-ui/.angular-cli.json",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/item.service.ts",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/item/item.service.ts",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/navbar/navbar.component.ts",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/navbar/navbar.component.html",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/styles.css",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/app.component.ts",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/app.component.html",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/navbar/navbar.component.css",
+		"/C/Users/Usuário/workspace/patrimonio-ui/src/app/app.module.ts",
+		"/C/Users/Usuário/Desktop/Cursos UDEMY/CursoDjango/mydjangoblog/mydjangoblog/mydjangoblog/urls.py",
+		"/C/Users/Usuário/Desktop/Cursos UDEMY/CursoDjango/mydjangoblog/mydjangoblog/templates/lista_post.html",
+		"/C/Users/Usuário/Desktop/Cursos UDEMY/CursoDjango/mydjangoblog/mydjangoblog/templates/contato.html",
+		"/C/Users/Usuário/Desktop/Cursos UDEMY/CursoDjango/mydjangoblog/mydjangoblog/posts/models.py",
+		"/C/Program Files/Weka-3-8/data/contact-lenses.arff",
+		"/C/Users/Usuário/AppData/Local/Temp/Temp1_startbootstrap-half-slider-gh-pages.zip/startbootstrap-half-slider-gh-pages/index.html",
+		"/C/xampp/htdocs/webservices-soap/index.php",
+		"/C/xampp/htdocs/maikonmelo/wp-admin/css/nav-menus.css",
+		"/C/xampp/htdocs/maikonmelo/wp-admin/menu.php",
+		"/C/xampp/htdocs/maikonmelo/wp-content/themes/evolve/css/bbpress.css",
+		"/C/xampp/htdocs/angularMaterialKZ/src/app/demo/demo.module.ts",
+		"/C/Users/Usuário/AppData/Local/Temp/Temp1_nav.zip/nav/index.html",
+		"/C/xampp/htdocs/webservices-soap/assets/angular.js",
+		"/C/xampp/htdocs/ocean_CRUD/indexValidation.php",
+		"/C/Users/Usuário/AppData/Local/Temp/Temp1_nusoap-0.9.5.zip/samples/client1.php",
+		"/C/multiroom_chat/app/controllers/index.js",
+		"/C/multiroom_chat/app/routes/chat.js",
+		"/C/multiroom_chat/app/controllers/chat.js",
+		"/C/multiroom_chat/app/routes/index.js",
+		"/C/multiroom_chat/config/server.js",
+		"/C/multiroom_chat/app.js",
+		"/C/multiroom_chat/app/views/index.html",
+		"/C/curso_node/app/views/noticias/noticia.ejs",
+		"/C/curso_node/app/models/NoticiasDAO.js",
+		"/C/curso_node/app/views/home/index.ejs",
+		"/C/curso_node/app/controllers/noticias.js",
+		"/C/curso_node/app/views/noticias/noticias.ejs",
+		"/C/curso_node/app/controllers/admin.js",
+		"/C/curso_node/app/routes/admin.js",
+		"/C/curso_node/app/views/admin/form_add_noticia.ejs",
+		"/C/curso_node/config/server.js",
+		"/C/curso_node/app/controllers/home.js",
+		"/C/Users/Usuário/Desktop/portal_noticias_html_e_assets/noticias.html",
+		"/C/Users/Usuário/Desktop/portal_noticias_html_e_assets/noticia.html",
+		"/C/Users/Usuário/Desktop/portal_noticias_html_e_assets/formulario_inclusao_noticia.html",
+		"/C/Users/Usuário/Desktop/portal_noticias_html_e_assets/index.html",
+		"/C/Users/Usuário/Desktop/portal_noticias_html_e_assets/css/style.css",
+		"/C/curso_node/app/routes/home.js",
+		"/C/curso_node/app/routes/noticias.js",
+		"/C/curso_node/app/routes/noticia.js",
+		"/C/curso_node/package.json",
+		"/C/curso_node/config/dbConnection.js",
+		"/C/curso_node/app.js",
+		"/C/curso_node/app/models/noticiasModel.js",
+		"/C/curso_node/noticias.js",
+		"/C/curso_node/mod_teste.js",
+		"/C/curso_node/views/home/index.ejs",
+		"/C/curso_node/views/secao/tecnologia.ejs",
+		"/C/curso_node/noticias",
+		"/C/curso_node/noticias.js.txt",
+		"/C/Program Files/Weka-3-8/data/soybean.arff",
+		"/C/xampp/htdocs/meusite_testes/meusite/wordpress/wp-content/themes/mkntheme/style.css",
+		"/C/xampp/htdocs/meusite_testes/meusite/wordpress/wp-content/themes/mkntheme/index.php",
+		"/C/xampp/htdocs/meusite_testes/meusite/wordpress/wp-content/themes/mkntheme/header.php",
+		"/C/xampp/htdocs/meusite_testes/meusite/wordpress/wp-activate.php",
+		"/C/xampp/htdocs/meusite_testes/meusite/wordpress/wp-config.php",
+		"/C/xampp/htdocs/fluida/header.php",
+		"/C/Program Files/Weka-3-8/data/breast-cancer.arff",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/header.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/screenshot.png",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/twentyfifteen/screenshot.png",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/twentyseventeen/footer.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/twentyseventeen/index.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/twentyseventeen/header.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/twentyseventeen/style.css",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/index.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/twentyfifteen/footer.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/footer.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/style.css",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/content/content-page.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/content/author-bio.php",
+		"/C/xampp/htdocs/meusite/wordpress/wp-content/themes/fluida/page.php",
+		"/C/xampp/htdocs/academico/wordpress/wp-config.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-admin/includes/dashboard.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-content/themes/fluida/style.css",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-admin/index.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-admin/customize.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-admin/menu.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-includes/customize/class-wp-customize-partial.php",
+		"/C/xampp/htdocs/meusite/meusite/wordpress/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-settings.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-content/themes/twentyseventeen/header.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-login.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-blog-header.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-content/themes/twentyseventeen/index.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-content/index.php",
+		"/C/xampp/htdocs/wordpress-4.8.1/wordpress/wp-content/themes/index.php",
+		"/C/Program Files/NetBeans 8.2/bin/netbeans",
+		"/C/xampp/htdocs/fluida/index.php",
+		"/C/Users/Usuário/Desktop/wordpress-backup/index.php",
+		"/C/Program Files/glassfish-4.1.1/glassfish/domains/domain1/config/domain.xml",
+		"/C/xampp/htdocs/YiiAcademy/basic/views/layouts/shop.php",
+		"/C/xampp/htdocs/YiiAcademy/basic/assets/ShopAsset.php",
+		"/C/xampp/htdocs/YiiAcademy/basic/views/site/shop.php",
+		"/C/xampp/htdocs/YiiAcademy/basic/web/js/app.js",
+		"/C/Program Files/NetBeans 8.2/netbeans.css",
+		"/C/xampp/htdocs/YiiAcademy/basic/composer.json",
+		"/C/xampp/htdocs/YiiAcademy/basic/views/site/about.php",
+		"/C/xampp/htdocs/YiiAcademy/basic/controllers/SiteController.php",
+		"/C/xampp/htdocs/YiiAcademy/basic/config/web.php",
+		"/C/Users/Usuário/Downloads/startbootstrap-shop-homepage-gh-pages/index.html",
+		"/C/xampp/htdocs/YiiAcademy/basic/views/layouts/main.php",
+		"/C/xampp/htdocs/sidebar/node_modules/sidebarjs/demo/demo.css",
+		"/C/xampp/htdocs/sidebar/node_modules/angular-sidebarjs/demo/demo.css",
+		"/C/xampp/htdocs/sidebar/node_modules/angular-sidebarjs/demo/index.html",
+		"/C/xampp/htdocs/sidebar/node_modules/angular-sidebarjs/demo/app.template.html",
+		"/C/xampp/htdocs/sidebar/index.php",
+		"/C/xampp/htdocs/CursoAngular/index.html",
+		"/C/xampp/htdocs/CursoAngular/footer.html",
+		"/C/Meus Cursos/Angular/AngularJS_2_Usando_Diretivas_Parte_1/index.html",
+		"/C/Meus Cursos/Angular/AngularJS_2_Usando_Diretivas_Parte_1/footer.html",
+		"/C/Meus Cursos/Angular/AngularJS_2_Usando_Diretivas_Parte_1/footer",
+		"/C/xampp/htdocs/youtube-master/youtube-master/AngularJS_1_Hello_World/watch.html.html",
+		"/C/xampp/htdocs/youtube-master/youtube-master/AngularJS_2_Usando_Diretivas_Parte_1/index.html",
+		"/C/xampp/htdocs/youtube-master/youtube-master/AngularJS_1_Hello_World/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p-dataTable",
+			"dataTable",
+			"intro-bg",
+			"primary-menu",
+			"block",
+			"menu",
+			"copyrig",
+			"footer",
+			"academico"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16025,
+								16025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4755.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Usuário/Desktop/Cursos UDEMY/CursoLaravel/timer/css/slider.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layout.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7188,
+								7188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/about.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/contact.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/service.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "blog.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"wordpress\\wp-content\\themes\\fluida\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
